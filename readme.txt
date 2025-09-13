@@ -1,4 +1,4 @@
-Sudeep Bhat - Personal Portfolio
+***Sudeep Bhat - Personal Portfolio***
 This repository contains the source code for Sudeep Bhat's personal portfolio website, built with React and styled with Tailwind CSS. It serves as a comprehensive online resume, showcasing his skills, education, experience, and projects as an aspiring Data Scientist.
 
 🚀 About
