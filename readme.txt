@@ -1,70 +1,117 @@
-Get PRO here:
-https://templatesjungle.gumroad.com/l/daniel-free-portfolio-html-bootstrap-website-template
+Sudeep Bhat - Personal Portfolio
+This repository contains the source code for Sudeep Bhat's personal portfolio website, built with React and styled with Tailwind CSS. It serves as a comprehensive online resume, showcasing his skills, education, experience, and projects as an aspiring Data Scientist.
 
-It is a Bootstrap HTML CSS template by TemplatesJungle.com
-You can use this template as a starter template and start building as you require.
+🚀 About
+This portfolio is a single-page application (SPA) designed to be highly responsive and performant. It provides a modern, interactive platform to highlight Sudeep's journey and accomplishments in the field of Data Science. The use of React allows for a component-based architecture, making the codebase modular and easy to maintain.
 
-The code is consistent and can be easily maintained as we have followed a good coding standards. We want everyone to easily understand it and modify it according to their requirement. As the main goal of providing these templates is to give you something to work on before even starting.
+✨ Features
+Responsive Design: The UI adapts seamlessly to various screen sizes using Tailwind CSS's utility-first approach.
 
+Modular Components: Each section (e.g., Education, Projects) is a reusable React component.
 
-DOCUMENTATION:
+Smooth Navigation: A sticky navigation bar provides quick and easy access to different sections.
 
-https://docs.templatesjungle.com/
+Interactive Sections: Engaging user experience with dynamic content and well-structured layouts.
 
+SEO Friendly: Optimized for search engines to ensure discoverability.
 
-FREE FOR BOTH PERSONAL AND COMMERCIAL USE
+Comprehensive Sections:
 
-This HTML Template is provided by TemplatesJungle.com and is free to use in both personal and commercial projects as long as you don't remove our credit link in the footer.
+Hero: An engaging introduction.
 
-However, you can remove the credit link by paying for PRO version of the template which also includes additional pages.
+Education: Details of academic background.
 
+Experience: Overview of professional and simulated work experiences.
 
-RIGHTS
+Projects: A showcase of key data science projects with descriptions.
 
-You are allowed to use it in your personal projects and commercial projects.
+Skills: A categorized list of technical and soft skills.
 
-You can modify and sell it to your clients.
+Contact: Social links for easy connection.
 
+🛠️ Technologies Used
+React: A JavaScript library for building user interfaces.
 
-PROHIBITIONS
+Vite: A fast build tool for modern web projects. (Alternatively, can be replaced with Create React App)
 
-You cannot remove the credit link which links back to templatesjungle.com if you downloaded free version.
+Tailwind CSS: A utility-first CSS framework for building custom designs.
 
-You are not permitted to resell or redistribute (paid or free) as it is. 
+JavaScript: The core language for application logic.
 
-You cannot use it to build premium templates, themes or any other goods to be sold on marketplaces.
+Font Awesome: For a collection of vector icons.
 
-If you want to share the free resource in your blog, you must point it to original TemplatesJungle.com resource page. 
+React Router: (Optional, but recommended for multi-page portfolios) For handling navigation.
 
-You cannot host the download file in your website.
+⚙️ Setup and Usage
+To run this project locally, follow these steps:
 
+Clone the repository:
 
-SUPPORT
+Bash
 
-You can contact us to report any bugs and errors in the template. We will try and fix them immediately although it's a free resource.
+git clone https://github.com/redskull024/Sudeep-Bhat-Portfolio.git
+cd Sudeep-Bhat-Portfolio
+Install dependencies:
 
-Feel free to let us know about what you want to see in the future downloads. We will definitely give it a thought while creating our next freebie.
+Bash
 
+npm install
+or
 
-CREDITS & REFERENCES
+Bash
 
-https://getbootstrap.com/
+yarn install
+Start the development server:
 
-Stock Photos
-https://unsplash.com/
-https://www.freepik.com/
-https://www.pexels.com/
+Bash
 
-Fonts
-Google fonts
-https://fonts.google.com/
+npm run dev
+or
 
-Icons
-https://iconify.design/
+Bash
 
-JQuery Plugins
-Swiper Slider - https://swiperjs.com/
-AOS - https://michalsnik.github.io/aos/
+yarn dev
+The application will be accessible at http://localhost:5173 (or a similar address displayed in your terminal).
 
-Thanks for downloading from TemplatesJungle.com !
+Build for production:
 
+Bash
+
+npm run build
+This command creates a dist folder with the production-ready static files.
+
+📋 Sections of the Portfolio
+The portfolio is structured with the following key components and sections:
+
+Home (#home): The landing section with a welcome message and a brief self-description.
+
+Education (#education): Lists academic qualifications.
+
+Presidency University, Bengaluru: B.Tech, Data Science (2022 – 2026)
+
+KCS Dr.A.V.Baliga Arts & Science College: Pre-University, Computer Science & Engineering (2020 – 2022)
+
+Experience (#experience): Details professional and simulated work experiences.
+
+Python Programming Intern: InternPe (Jan 2024 – Feb 2024)
+
+Data Science Job Simulation: Forage (Virtual Experience)
+
+Projects (#projects): Showcases key projects, including:
+
+Pac-Man AI Game (Python)
+
+Sudoku Solver (C++, Backtracking, DFS)
+
+Gesture-Based Keyboard (Raspberry Pi, OpenCV)
+
+IPL Score Predictor (Deep learning model)
+
+Skills (#about): A detailed overview of Sudeep's technical and soft skills.
+
+📧 Contact
+Feel free to connect with Sudeep Bhat through the following platforms:
+
+LinkedIn: https://www.linkedin.com/in/bhat-sudeep/
+
+GitHub: https://github.com/redskull024
